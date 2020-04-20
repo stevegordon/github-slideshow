@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"All marketers are liars." -Seth Godin
 Use the left arrow to go back!!
